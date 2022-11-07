@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> yp Linux </h1>
+<h1 style="text-align: right;"> yp Linux </h1>
 <hr/>
 yotta protocol operating system ( Linux )
 yotta to mean seemingly infinite but actually achievable | and protocol standing for knowledge
